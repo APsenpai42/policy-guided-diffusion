@@ -1,0 +1,14 @@
+# Embeddings & Indexing
+sentence-transformers
+faiss-cpu
+
+# Data Processing
+spacy
+unstructured
+pymupdf
+
+# Infrastructure standards
+pydantic
+structlog
+duckdb
+wandb
